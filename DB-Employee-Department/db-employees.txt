@@ -1,0 +1,25 @@
+10001,Lionel Messi,D100,M,95000
+10018,Cristiano Ronaldo,D300,F,72000
+10009,Kylian Mbappé,D400,M,75000
+10011,Marta Vieira da Silva,D300,F,100000
+10014,Mike Trout,D200,F,84000
+10021,Deyna Castellanos,D300,F,66000
+10007,Virgil van Dijk,D600,M,84000
+10019,Marc-André ter Stegen,D600,M,78000
+10003,Neymar Jr.,D300,M,82000
+10015,Shohei Ohtani,D700,M,80000
+10012,David de Gea,D600,M,85000
+10010,Andres Iniesta,D100,M,85000
+10006,Alex Morgan,D300,F,93000
+10017,Mookie Betts,D900,M,92000
+10008,Samantha Kerr,D200,F,82000
+10002,Cristiano Ronaldo,D200,F,76000
+10016,Bryce Harper,D800,F,72000
+10004,Megan Rapinoe,D400,F,60000
+10005,Luka Modrić,D500,M,82000
+10013,Jose Altuve,D100,M,73000
+10020,Albert Pujols,D900,F,70000
+10022,Alexia Putellas,D300,F,70000
+10023,Caitlin Clark,D100,F,75000
+10024,Maria Macarena,D100,F,78000
+10025,Simone Biles,D100,F,72000
