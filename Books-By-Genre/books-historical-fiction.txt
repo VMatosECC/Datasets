@@ -1,0 +1,10 @@
+The Pillars of the Earth,Ken Follett,1989,978-0451225245,19.99
+All the Light We Cannot See,Anthony Doerr,2014,978-1501173219,16.99
+The Book Thief,Markus Zusak,2005,978-0375842207,12.99
+Gone with the Wind,Margaret Mitchell,1936,978-1451635621,16.99
+The Nightingale,Kristin Hannah,2015,978-1250080400,15.99
+Wolf Hall,Hilary Mantel,2009,978-0312429980,16.00
+Memoirs of a Geisha,Arthur Golden,1997,978-0679781585,14.95
+The Other Boleyn Girl,Philippa Gregory,2001,978-0743227445,16.00
+A Tale of Two Cities,Charles Dickens,1859,978-1503219700,8.99
+War and Peace,Leo Tolstoy,1869,978-0199232765,18.99

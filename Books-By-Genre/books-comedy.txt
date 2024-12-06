@@ -1,0 +1,10 @@
+Good Omens,Neil Gaiman & Terry Pratchett,1990,978-0060853983,10.99
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979,978-0345391803,7.99
+Bossypants,Tina Fey,2011,978-0316056861,15.99
+Is Everyone Hanging Out Without Me?,Mindy Kaling,2011,978-0307886279,14.99
+Catch-22,Joseph Heller,1961,978-1451626650,12.99
+Bridget Jones's Diary,Helen Fielding,1996,978-0140280098,14.99
+A Confederacy of Dunces,John Kennedy Toole,1980,978-0802130204,15.99
+Where'd You Go Bernadette,Maria Semple,2012,978-0316204262,14.99
+The Rosie Project,Graeme Simsion,2013,978-1476729091,15.99
+Goodnight June,Sarah Jio,2014,978-0142180211,16.00

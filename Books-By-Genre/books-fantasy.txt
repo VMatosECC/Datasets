@@ -1,0 +1,10 @@
+The Hobbit,J.R.R. Tolkien,1937,978-0547928227,14.95
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,978-0590353427,10.99
+A Game of Thrones,George R.R. Martin,1996,978-0553103540,9.99
+The Name of the Wind,Patrick Rothfuss,2007,978-0756404741,8.99
+The Way of Kings,Brandon Sanderson,2010,978-0765326355,9.99
+The Fellowship of the Ring,J.R.R. Tolkien,1954,978-0547928210,13.95
+Mistborn: The Final Empire,Brandon Sanderson,2006,978-0765311788,7.99
+The Lies of Locke Lamora,Scott Lynch,2006,978-0553588945,8.99
+Good Omens,Neil Gaiman & Terry Pratchett,1990,978-0060853983,10.99
+The Eye of the World,Robert Jordan,1990,978-0812511819,8.99
