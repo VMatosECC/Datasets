@@ -1,0 +1,35 @@
+Harry Potter
+M
+14
+110
+72
+Lord Voldemort
+M
+40
+138
+70
+Severus Snape
+M
+41
+120
+85
+Albus Dumbledore
+M
+80
+132
+70
+Hermione Granger
+F
+14
+112
+65
+Draco Malfoy
+M
+14
+139
+89
+Minerva McGonagall
+F
+75
+135
+89
