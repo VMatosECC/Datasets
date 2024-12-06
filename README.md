@@ -1,0 +1,4 @@
+Book collection divided in five files: comedy, fantasy, historical fiction, romance and sci-fi.
+Each record consists of title, author, year of publication, ISBN, price
+Example:
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979,978-0345391803,7.99
