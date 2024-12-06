@@ -1,0 +1,27 @@
+CSCI 30
+Advanced Programming C++
+4
+CSCI 40
+CSCI 40 Introduction to UNIX/LINUX Operating Systems
+4
+MATH 210
+Introduction to Discrete Structures
+5
+CSCI 3
+Computer Programming in Java
+4
+CSCI 1
+Problem Solving and Program Design Using C++
+4
+CSCI 2
+Introduction to Data Structures
+4
+CSCI 8
+Introduction to Data Sciences
+4
+CSCI 12
+Programming for Internet Applications using PHP, JavaScript, and XHTML
+4
+CSCI 16
+Assembly Language
+4

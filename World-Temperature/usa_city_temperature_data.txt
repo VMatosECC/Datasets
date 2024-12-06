@@ -1,0 +1,14 @@
+Torrance, CA
+Daybreak 74
+Noon     76
+Midnight 55
+#
+San Francisco, CA
+Noon     67
+Midnight 50
+#
+Cleveland, OH
+Daybreak 54
+Noon     62
+Midnight 48
+#

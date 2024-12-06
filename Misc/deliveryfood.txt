@@ -1,0 +1,28 @@
+Homer Simpson
+555-1111
+742 Evergreen, Springfield
+Lightning McQueen
+555-0011
+1 Pizza
+4 Burger
+4 Fries
+#
+Mirabel Madrigal
+555-2222
+1 Encanto Road, Colombia
+Juan Valdez
+555-0022
+20 Arepas
+20 Empanadas
+#
+Harry Potter
+555-3333
+4 Privet Drive, London
+Hagrid
+555-0033
+3 Meat and kidney pie
+3 Afternoon tea
+3 Fish and chips
+#
+
+

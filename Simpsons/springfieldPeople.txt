@@ -1,0 +1,20 @@
+100,Homer Simpson,39,data100
+105,Marge Simpson,36,data105
+110,Bart Simpson,10,data110
+115,Lisa Simpson,8,data115
+120,Maggie Simpson,1,data120
+125,Abraham Simpson,83,data125
+130,Ned Flanders,60,data130
+135,Maude Flanders,58,data135
+140,Milhouse Van Houten,10,data140
+145,Nelson Muntz,12,data145
+150,Ralph Wiggum,8,data150
+155,Seymour Skinner,44,data155
+160,Edna Krabappel,41,data160
+165,Apu Nahasapeemapetilon,45,data165
+170,Moe Szyslak,50,data170
+175,Barney Gumble,40,data175
+180,Krusty the Clown,55,data180
+185,Clancy Wiggum,45,data185
+190,Waylon Smithers,40,data190
+195,Montgomery Burns,104,data195

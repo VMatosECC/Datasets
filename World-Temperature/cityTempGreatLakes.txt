@@ -1,0 +1,20 @@
+Chicago, 74
+Milwaukee, 74
+Detroit, 68
+St. Paul, 75
+Chicago, 71
+Chicago, 72
+Cleveland, 69
+St. Paul, 67
+Cleveland, 69
+Chicago, 65
+Cleveland, 69
+Detroit, 72
+Cleveland, 75
+St. Paul, 71
+Cleveland, 73
+St. Paul, 71
+Detroit, 63
+St. Paul, 63
+Cleveland, 73
+Chicago, 78

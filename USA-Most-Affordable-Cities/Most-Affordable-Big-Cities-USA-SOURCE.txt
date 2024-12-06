@@ -1,0 +1,85 @@
+https://www.rockethomes.com/blog/home-buying/7-most-affordable-big-cities
+
+Average Cost Of Living In The US
+To fully understand how affordable these big cities are, it’s helpful to know the national averages.
+
+Cost of living: 100
+U.S. population: 327,167,434
+Median household income: $60,293
+Median home price: $311,927
+Median monthly rent: $985
+Cost of a half-gallon of milk: $1.93
+
+struct CityT
+{
+	string	city;
+	string	state;
+	double  costOfLiving;
+	int	population;
+	double	householdIncome;
+	double	medianHomePrice;
+	double	medianMonthlyRent;
+	double	halfGallonMilk;
+}
+
+//////////////////////////////////////////////////////////////////////////////////////////////
+
+Memphis
+Tennessee
+20.6 
+650618
+39108
+248857
+756
+1.90
+Tulsa
+Oklahoma
+14.8
+400669
+46113
+231122
+678
+2.09
+Oklahoma City
+Oklahoma
+14.6
+649021
+54034
+243654
+859
+1.96 
+St. Louis 
+Missouri
+12.6
+302838
+41107
+244787
+856
+1.72 
+San Antonio 
+Texas
+11.3
+1532233
+50980
+264718
+1200
+1.34
+Tampa 
+Florida
+9.1
+392890
+50909
+259155
+1205
+2.41
+Jacksonville 
+Florida
+9
+903889
+52576
+287931
+1268
+1.79
+
+
+

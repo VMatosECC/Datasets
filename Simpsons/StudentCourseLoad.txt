@@ -1,0 +1,21 @@
+2021-4444
+Lisa Simpson
+CS1
+CS7
+#
+2021-2222
+Marge Simpson
+CS2
+CS16
+#
+2021-3333
+Bart Simpson
+CS2
+CS16
+CS7
+#
+2021-1111
+Homer Simpson
+CS1
+CS7
+#

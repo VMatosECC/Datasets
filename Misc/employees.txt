@@ -1,0 +1,11 @@
+Homer Simpson,39,Nuclear Safety
+Marge Simpson,36,Homemaker
+Bart Simpson,10,Student
+Lisa Simpson,8,Student
+Peppa Pig,4,Student
+George Pig,2,Toddler
+Bluey Heeler,6,Student
+Bingo Heeler,4,Student
+Mr. Burns,81,Executive
+Peter Parker,23,Photographer
+Dilbert,30,Engineering

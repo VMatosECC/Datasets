@@ -1,0 +1,72 @@
+
+// FILL-FLOOD PROBLEM
+// ---------------------------------------------------------------------
+// Neighbors. The following arrays detail all 8 possible movements 
+// around an [x][y] cell
+int row[] = { -1, -1, -1,  0, 0,  1, 1, 1 };
+int col[] = { -1,  0,  1, -1, 1, -1, 0, 1 };
+
+// ---------------------------------------------------------------------
+// M x N color matrix
+
+const int M = 10; // total rows
+const int N = 10; // total columns
+
+
+// matrix showing portion of the screen displaying various colors
+char matrix[M][N] =
+{
+	{ 'Y', 'Y', 'Y', 'G', 'G', 'G', 'G', 'G', 'G', 'G' },
+	{ 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'G', 'X', 'X', 'X' },
+	{ 'G', 'G', 'G', 'G', 'G', 'G', 'G', 'X', 'X', 'X' },
+	{ 'W', 'W', 'W', 'W', 'W', 'G', 'G', 'G', 'G', 'X' },
+	{ 'W', 'R', 'R', 'R', 'R', 'R', 'G', 'X', 'X', 'X' },
+	{ 'W', 'W', 'W', 'R', 'R', 'G', 'G', 'X', 'X', 'X' },
+	{ 'W', 'B', 'W', 'R', 'R', 'R', 'R', 'R', 'R', 'X' },
+	{ 'W', 'B', 'B', 'B', 'B', 'R', 'R', 'X', 'X', 'X' },
+	{ 'W', 'B', 'B', 'X', 'B', 'B', 'B', 'B', 'X', 'X' },
+	{ 'W', 'B', 'B', 'X', 'X', 'X', 'X', 'X', 'X', 'X' }
+};
+
+// -------------------------------------------------------------------
+// COUNTING ISLANDS PROBLEM
+
+	// M x N matrix
+	const int M = 10;
+	const int N = 10;
+
+    // 1 represents land, 0 is water
+	int matrix[M][N] =
+	{
+		{ 1, 0, 1, 0, 0, 0, 1, 1, 1, 1 },
+		{ 0, 0, 1, 0, 1, 0, 1, 0, 0, 0 },
+		{ 1, 1, 1, 1, 0, 0, 1, 0, 0, 0 },
+		{ 1, 0, 0, 1, 0, 1, 0, 0, 0, 0 },
+		{ 1, 1, 1, 1, 0, 0, 0, 1, 1, 1 },
+		{ 0, 1, 0, 1, 0, 0, 1, 1, 1, 1 },
+		{ 0, 0, 0, 0, 0, 1, 1, 1, 0, 0 },
+		{ 0, 0, 0, 1, 0, 0, 1, 1, 1, 0 },
+		{ 1, 0, 1, 0, 1, 0, 0, 1, 0, 0 },
+		{ 1, 1, 1, 1, 0, 0, 0, 1, 1, 1 }
+	};
+
+
+// ----------------------------------------------------------------------
+// ESCAPING FROM A MAZE PROBLEM 
+// ----------------------------------------------------------------------
+// neighbors: right, up, left, down (counter-clockwise using deque)
+int x[NEIGHBORS] { 0, -1,  0, 1};
+int y[NEIGHBORS] { 1,  0, -1, 0};
+
+//dimensions of the sample maze
+const int TROW = 4;
+const int TCOL = 5;
+
+//maze: 'o' (free), 'b' (blocked), 'e' (exit), '*' (visited), 's' (starting point)
+char maze[4][5]{
+    {'o', 'o', 'b', 'e', 'o', },
+    {'o', 'b', 's', 'o', 'b', },
+    {'o', 'o', 'o', 'b', 'b', },
+    {'b', 'b', 'o', 'b', 'b', }
+};
+ 

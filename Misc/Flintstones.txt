@@ -1,0 +1,6 @@
+100,Fred Flintstone,45
+110,Wilma Flintstone,40
+120,Pebble Flintstone,18
+200,Barney Rubble,44
+210,Betty Rubble,39
+220,Bamm-Bamm Rubble,18
