@@ -1,0 +1,43 @@
+ID, Name, email, age, weight, Trainer(s), #Terminator
+C111
+Homer Simpson
+homer@gmail.com
+39
+239.5
+T1000
+T2000
+#
+C222
+Marge Simpson
+marge@gmail.com
+37
+130
+T1000
+#
+C333
+Bart Simpson
+bart@gmail.com
+9
+70
+T1000
+T2000
+#
+C444
+Lisa Simpson
+lisa@gmail.com
+8
+50
+#
+C555
+Maribel Madrigal
+mm@hotmail.com
+9
+55
+#
+C666
+BRUNO MADRIGAL
+bm@hotmail.com
+30
+140
+T2000
+#

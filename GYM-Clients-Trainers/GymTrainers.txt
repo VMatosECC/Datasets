@@ -1,0 +1,18 @@
+ID, Name, email, Specialty, Student(s), #Terminator
+T1000
+Mr. Miyagi
+karate@gmail.com
+Personal Defense
+C111
+C222
+C333
+#
+T2000
+Yoda D. Master
+stars@hotmail.com
+Force Yoga
+C111
+C333
+C666
+#
+
