@@ -1,0 +1,29 @@
++--------------------------+       +---------------------------+
+|   Restaurant             |       |   Dish                    |
++--------------------------+       +---------------------------+
+| - name: string           |       | - name: string            |
+| - address: string        |       | - description: string     |
+| - phone: string          |       | - calories: int           |
++--------------------------+       | - price: double           |
+| + Restaurant(...)        |       +---------------------------+
+| + getName(): string      |       | + Dish(...)               |
+| + getAddress(): string   |       | + getName(): string       |
+| + getPhone(): string     |       | + getDescription(): string|
+| + addDish(Dish)          |       | + getCalories(): int      |
+| + removeDish(Dish)       |       | + getPrice(): double      |
+| + getMenu(): vector<Dish>|       + display(): void           |
++--------------------------+       +---------------------------+
+       |
+       | 1..*
+       |
++----------------------------+
+|      Menu                  |
++----------------------------+
+| - dishes: vector<Dish>     |
++----------------------------+
+| + Menu()                   |
+| + addDish(Dish)            |
+| + removeDish(Dish)         |
+| + getDishes(): vector<Dish>|
+| + displayMenu()            |
++----------------------------+

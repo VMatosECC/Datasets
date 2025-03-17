@@ -1,0 +1,15 @@
+Delicious at Los Angeles
+555 Hollywood Blvd, Los Angeles, CA 90028
+(323) 123-4567
+Delicious at Chicago
+100 N Michigan Ave, Chicago, IL 60602
+(312) 234-5678
+Delicious at Cleveland
+123 E 9th St, Cleveland, OH 44199
+(216) 345-6789
+Delicious at Miami
+900 Ocean Dr, Miami Beach, FL 33139
+(305) 456-7890
+Delicious at Springfield
+123 Evergreen Rd, Springfield 
+(555) 123-4567
