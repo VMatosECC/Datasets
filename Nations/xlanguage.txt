@@ -46,9 +46,9 @@ Greek; Turkish
 Czech; Slovak
 Danish
 Arabic; French
-English; French; Antillean Creoleÿ
+English; French; Antillean CreoleÃ¿
 Spanish
-Tetum; Portuguese;ÿ
+Tetum; Portuguese;Ã¿
 Spanish
 Arabic
 Spanish
@@ -84,7 +84,7 @@ Italian
 English
 Japanese
 Arabic
-Kazakh; Russianÿ
+Kazakh; RussianÃ¿
 Swahili; English
 English; Gilbertese
 Korean
@@ -100,7 +100,7 @@ English
 Arabic
 German
 Lithuanian
-German; French;ÿLuxembourgish
+German; French;Ã¿Luxembourgish
 Macedonian
 Malagasy; French; English
 English
@@ -130,10 +130,10 @@ French
 English
 Norwegian
 Arabic
-Urdu; Englishÿ
+Urdu; EnglishÃ¿
 English; Palauan
 Spanish
-English; Tok Pisin;ÿHiri Motu
+English; Tok Pisin;Ã¿Hiri Motu
 Spanish; Guarani
 Spanish
 Filipino; English
@@ -153,7 +153,7 @@ Portuguese
 Arabic
 French
 Serbian
-Seychellois Creole;ÿ
+Seychellois Creole;Ã¿
 Krio; English
 English; Malay; Mandarin Chinese
 Slovak
@@ -163,7 +163,7 @@ Somali; Arabic
 Zulu; Xhosa; Afrikaans
 Spanish
 Sinhala; Tamil
-Arabic; Englishÿ
+Arabic; EnglishÃ¿
 Dutch
 English; SiSwati
 Swedish
