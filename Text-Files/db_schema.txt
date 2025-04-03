@@ -1,0 +1,9 @@
+EMPLOYEE(fname, lname, ssn, bdate, address, sex, salary, superssn, dno)
+
+DEPARTMENT(dname, dno, mgr)
+
+PROJECT(pname, pno, plocation, dnum)
+
+WORKSON(ssn, pno, hours)
+
+DEPENDENT(dssn, dname, dsex, dbdate, drelationship)
