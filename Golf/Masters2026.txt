@@ -1,0 +1,61 @@
+Pos     Player                 To Par  R1      R2      R3      R4      Total
+1
+Rory McIlroy
+-12     67      65      73      71           276
+2
+Scottie Scheffler
+-11     70      74      65      68           277
+T3
+Cameron Young
+-10     73      67      65      73           278
+T3
+Russell Henley
+-10     73      71      66      68           278
+T3
+Justin Rose
+-10     70      69      69      70           278
+T3
+Tyrrell Hatton
+-10     74      66      72      66           278
+T7
+Sam Burns
+-9 67      71      68      73           279
+T7
+Collin Morikawa
+-9         74      69      68      68           279
+T9
+Xander Schauffele
+-8      70      72      70      68           280
+T9
+Max Homa
+-8      72      70      71      67           280
+11
+Jake Knapp
+-7      73      69      69      70           281
+T12
+Jordan Spieth
+-5      72      73      70      68           283
+T12
+Patrick Reed
+-5      69      69      72      73           283
+T12
+Brooks Koepka
+-5      72      69      71      71           283
+T12
+Hideki Matsuyama
+-5      72      70      72      69           283
+T12
+Patrick Cantlay
+-5      77      67      66      73           283
+T12
+Jason Day
+-5      69      71      68      75           283
+T18
+Maverick McNealy
+-4      77      70      70      67           284
+T18
+Viktor Hovland
+-4      75      71      71      67           284
+T18
+Matt Fitzpatrick
+-4      74      69      70      71           284
